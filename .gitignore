@@ -1,0 +1,16 @@
+report/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.pkl
+*.zip
+*.tar
+*.tar.gz
+*.log
+*.csv
+results/
+.DS_Store
+.env
+.venv/
+venv/
